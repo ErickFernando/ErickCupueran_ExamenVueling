@@ -1,0 +1,10 @@
+C:\Users\Erick Fer\source\repos\EricCupueran-ExamenVueling\ClienteForm\bin\Debug\ClienteForm.exe.config
+C:\Users\Erick Fer\source\repos\EricCupueran-ExamenVueling\ClienteForm\bin\Debug\ClienteForm.exe
+C:\Users\Erick Fer\source\repos\EricCupueran-ExamenVueling\ClienteForm\bin\Debug\ClienteForm.pdb
+C:\Users\Erick Fer\source\repos\EricCupueran-ExamenVueling\ClienteForm\obj\Debug\ClienteForm.Properties.Resources.resources
+C:\Users\Erick Fer\source\repos\EricCupueran-ExamenVueling\ClienteForm\obj\Debug\ClienteForm.csproj.GenerateResource.cache
+C:\Users\Erick Fer\source\repos\EricCupueran-ExamenVueling\ClienteForm\obj\Debug\ClienteForm.csproj.CoreCompileInputs.cache
+C:\Users\Erick Fer\source\repos\EricCupueran-ExamenVueling\ClienteForm\obj\Debug\ClienteForm.exe
+C:\Users\Erick Fer\source\repos\EricCupueran-ExamenVueling\ClienteForm\obj\Debug\ClienteForm.pdb
+C:\Users\Erick Fer\source\repos\EricCupueran-ExamenVueling\ClienteForm\obj\Debug\ClienteForm.csprojAssemblyReference.cache
+C:\Users\Erick Fer\source\repos\EricCupueran-ExamenVueling\ClienteForm\obj\Debug\ClienteForm.Form1.resources
